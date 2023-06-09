@@ -7,4 +7,6 @@ We apply extensive data exploration and feature engineering to prepare the data 
 
 Dataset: https://www.kaggle.com/competitions/plaksha-23-ml-1-final-project/overview
 
+-------
+
 _Please refer to the detailed Jupyter notebooks for each step for an in-depth understanding. Feel free to use this project as a basis for further exploration or to contribute to its refinement._
