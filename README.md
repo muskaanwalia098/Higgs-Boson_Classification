@@ -5,7 +5,7 @@ This repository explores the SUSY ATLAS dataset produced by Monte Carlo simulati
 
 We apply extensive data exploration and feature engineering to prepare the data for the XGBoost classifier. The analysis includes imputation strategies, data preprocessing decisions, and detailed hyperparameter tuning of the XGBoost model. Despite the complexities of the dataset and its high-dimensional nature, our model achieves robust performance and offers valuable insights into the underlying physics.
 
-[Dataset](https://www.kaggle.com/competitions/plaksha-23-ml-1-final-project/overview)
+ The dataset used for this project is obtained from Kaggle and can be found [here](https://www.kaggle.com/competitions/plaksha-23-ml-1-final-project/overview)
 
 -------
 
